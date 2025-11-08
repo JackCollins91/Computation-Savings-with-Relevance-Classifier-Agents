@@ -26,7 +26,7 @@ passages confidently labeled as irrelevant, the smaller agent reduces the number
 that need to be processed by the larger agent, yielding computational savings under the
 right conditions. This method stub formalizes the conditions for such savings and provides
 a demonstration using Phi-2-Medium as the smaller agent and Phi-3 as the larger agent.
-The demonstration yielded a 36.27% reduction in average FLOPs per token.
+The demonstration yielded a 13.30% reduction in average FLOPs per token.
 
 ---
 
